@@ -20,8 +20,8 @@ redirect_from:
 Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Technology (Weihai Campus). I have been under supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). My research interests include: natural language processing, large language models, the interpretability and security of large language models. I will join Harbin Institute of Technology (Shenzhen Campus) in October 2025 to pursue an academic master's degree in Computer Science and Technology, under the guidance of [Prof. Cuiyun Gao](https://cuiyungao.github.io/).
 
 # 🔥 News
-- 2024.09 Two papers were accepted by <font color=#1e609f>EMNLP 2024 Main</font>.
-- 2024.07 One paper was accepted by <font color=#1e609f>ACMMM 2024</font>.
+- 2024.09 Two papers were accepted by EMNLP 2024 Main.
+- 2024.07 One paper was accepted by ACMMM 2024.
 - 2023.11 Won the 2022 National Inspirational Scholarship.
 - 2022.12 Won the First Prize of the National Finals of the 2022 China University Computer Competition (Top 4 in China)🥇
 - 2022.12 Won the 2021 National Inspirational Scholarship.
