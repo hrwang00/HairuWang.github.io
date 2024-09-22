@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-👋 Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Technology(Weihai Campus). I have been under supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). My research interests include: natural language processing, large language models, the interpretability and security of large language models. I will join Harbin Institute of Technology(Shenzhen Campus) in October 2025 to pursue an academic master's degree in Computer Science and Technology, under the guidance of [Prof. Cuiyun Gao](https://cuiyungao.github.io/).
+👋 Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Technology (Weihai Campus). I have been under supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). My research interests include: natural language processing, large language models, the interpretability and security of large language models. I will join Harbin Institute of Technology (Shenzhen Campus) in October 2025 to pursue an academic master's degree in Computer Science and Technology, under the guidance of [Prof. Cuiyun Gao](https://cuiyungao.github.io/).
 
 # 🔥 News
 - 2024.09 Two papers were accepted by EMNLP2024.
