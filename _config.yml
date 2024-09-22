@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haochuan's Homepage"
+title                    : "Zhanyue's Homepage"
 description              : "N/A"
-repository               : "PinkEx/pinkex.github.io"
+repository               : "JohnneyQin/JohnneyQin.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haochuan Wang"
-  avatar           : "images/CinnamonDog.jpg"
-  bio              : "CS undergraduate"
-  location         : "Weihai, China"
+  name             : "Zhanyue Qin"
+  avatar           : "images/ZhanyueQin.jpg"
+  bio              : "Senior at Harbin Institute of Technology"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=FXRaIuMAAAAJ"
-  email            : "pinkexsu0v0@gmail.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=RzoymXwAAAAJ"
+  email            : "johnneyqin@gmail.com"
   researchgate     :
   uri              :
   bitbucket        :
