@@ -16,53 +16,56 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-👋 Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Technology, Weihai Campus, China. I have been under supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). I am interested in combining AI (ML/LLM) with social science.
+👋 Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Technology(Weihai Campus). I have been under supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). My research interests include: natural language processing, large language models, the interpretability and security of large language models. I will join Harbin Institute of Technology(Shenzhen Campus) in October 2025 to pursue an academic master's degree in Computer Science and Technology, under the guidance of [Prof. Cuiyun Gao](https://cuiyungao.github.io/).
 
 # 🔥 News
-- *Now*: I am looking for a PhD position in natural language processing (NLP) / computing social science (CSS).
-- *2024.09*: &nbsp;🎉🎉 Our paper "UNO Arena for Evaluating Sequential Decision-Making Capability of Large Language Models" (second author) has been accepted by EMNLP 2024 Main Conference!
-- *2024.08*: I have completed my summer internship at [HKU NLP group](https://hkunlp.github.io/), supervised by [Prof. Lingpeng Kong](https://scholar.google.com/citations?user=f1hBi5wAAAAJ&hl=zh-CN).
+- 2024.09 Two papers were accepted by EMNLP2024.
+- 2024.07 One paper was accepted by ACMMM2024.
+- 2023.11 Won the 2022 National Inspirational Scholarship.
+- 2022.12 Won the First Prize of the National Finals of the 2022 China University Computer Competition (Top 4 in China)🥇
+- 2022.12 Won the 2021 National Inspirational Scholarship.
+- 2022.05 Won the first-class People's Scholarship of Harbin Institute of Technology (Top 1%)
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">EMNLP 2024 Main(CCF-B)</div>
+            <img src='images/paper_1.png' alt="sym" width="100%">
+        </div>
+    </div>
 <div class='paper-box-text' markdown="1">
-
-[UNO Arena for Evaluating Sequential Decision-Making Capability of Large Language Models]()
-
-Zhanyue Qin, **Haochuan Wang**, Deyuan Liu, Ziyang Song, Cunhang Fan, Zhao Lv, Jinlin Wu, Zhen Lei, Zhiying Tu, Dianhui Chu, Xiaoyan Yu, Dianbo Sui
-
+[UNO Arena for Evaluating Sequential Decision-Making Capability of Large Language Models](https://arxiv.org/pdf/2406.16382)
+**Zhanyue Qin**, Haochuan Wang, Deyuan Liu, Ziyang Song, Cunhang Fan, Zhao Lv, Jinlin Wu, Zhen Lei, Zhiying Tu, Dianhui Chu, Xiaoyan Yu, Dianbo Sui
 </div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'></div>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">EMNLP 2024 Main(CCF-B)</div>
+            <img src='images/paper_2.png' alt="sym" width="100%">
+        </div>
+    </div>
 <div class='paper-box-text' markdown="1">
-
-[Economics Arena for Large Language Models]()
-
-Shangmin Guo\*, Haoran Bu\*, **Haochuan Wang\***, Yi Ren, Dianbo Sui, Yuming Shang, Siting Lu
-
-*Equally contributed.
+[Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging](https://arxiv.org/pdf/2406.16330)
+Deyuan Liu\*, **Zhanyue Qin\***, Hairu Wang, Zhao Yang, Zecheng Wang, Fangying Rong, Qingbin Liu, Yanchao Hao, Xi Chen, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Bo Li, Dianbo Sui
 </div>
+<div class='paper-box'></div>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">ACMMM2024(CCF-A)</div>
+            <img src='images/paper_3.png' alt="sym" width="100%">
+        </div>
+    </div>
+<div class='paper-box-text' markdown="1">
+[Can We Debiase Multimodal Large Language Models via Model Editing?](https://openreview.net/pdf?id=ybqqGTWuhj)
+Zecheng Wang, Xinye Li, **Zhanyue Qin**, Chunshan Li, Zhiying Tu, Dianhui Chu, Dianbo Sui
 </div>
-
-# 🎖 Honors and Awards
-- *2024.06* Mucang Scholarship, Faculty of Computing, Harbin Institute of Technology.
-- *2022.12* National Scholarship, Ministry of Education of the People's Republic of China.
-- *2022.06* First-Class Renmin Scholarship, Harbin Institute of Technology, Weihai Campus.
-
-# 🏆 Competitions
-- *2024.01* The First IMC Challenge powered by Huawei, Problem A: 22nd Place
-- *2023.06* The 2023 Weihai Collegiate Programming Contest: Championship🏆
-- *2022.10* The 2022 CCPC Guangzhou Site Programming Contest: Silver Medal🥈
-- *2022.07* The 46th ACM-ICPC Asia East-Continent Final: Bronze Medal🥉
-- *2021.11* The 46th ACM-ICPC Asia Regional Contest, Shenyang: Gold Medal🥇
-- *2021.11* The 46th ACM-ICPC Asia Regional Contest, Jinan: Gold Medal🥇
 
 # 📖 Educations
-- *2021.09 - 2025.06 (Expected)*, Harbin Institute of Technology, Weihai, China. B.S. in Computer Science and Technology.
-- *2018.09 - 2021.06*, Hangzhou Xuejun High School, Hangzhou, China. Middle School Diploma.
+- *2025.09 - 2028.06 (Expected)*, Harbin Institute of Technology (Shenzhen Campus). M.S. in Computer Science and Technology.
+- *2021.09 - 2025.06 (Expected)*, Harbin Institute of Technology (Weihai Campus). B.S. in Software Engineering.
 
 # 💻 Internships
-- *2024.07 - 2024.08*, [HKU NLP Group](https://hkunlp.github.io/), Hong Kong SAR, China.
+- *2024.10 - 2025.01 (Expected)*, Tencent Platform and Content Group, Shenzhen.
