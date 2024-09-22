@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhanyue's Homepage"
-description              : "N/A"
+description              : #"N/A"
 repository               : "JohnneyQin/JohnneyQin.github.io"
 google_scholar_stats_use_cdn : true
 
