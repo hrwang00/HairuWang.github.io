@@ -51,6 +51,11 @@ Zecheng Wang, Xinye Li, **Zhanyue Qin**, Chunshan Li, Zhiying Tu, Dianhui Chu, D
 </div>
 </div>
 
+# 💬 Talk
+If you are interested in my work, I am more than happy to share them!
+Speeches that have been held:
+- *2024.09.28*, Efficient and Effective Solutions on LLMs，in [Guangdong Key Laboratory of New Security and and Intelligent New Technology](http://sailing.hitsz.edu.cn/index.htm).
+
 # 📖 Educations
 - *2025.09 - 2028.06 (Expected)*, Harbin Institute of Technology (Shenzhen Campus). M.S. in Computer Science and Technology.
 - *2021.09 - 2025.06 (Expected)*, Harbin Institute of Technology (Weihai Campus). B.S. in Software Engineering.
