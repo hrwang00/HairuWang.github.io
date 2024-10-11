@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About Me"
+excerpt: "Learn more about my research and publications."
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,10 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-Hi, everyone! I am currently a junior undergraduate student at Harbin Institute of Technology (Weihai). I serve as a research assistant at Harbin Institute of Technology under the supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). Additionally, I am a visiting student at Westlake University in the LINs Lab, working under the guidance of [Prof. Tao Lin](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). My research interests include: Deep Learning Theory, Large Language Models, The Interpretability, Complex Systems and Statistical Mechanics.
+
+Hi, everyone! I am currently a junior undergraduate student at Harbin Institute of Technology (Weihai). I serve as a research assistant at Harbin Institute of Technology under the supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). Additionally, I am a visiting student at Westlake University in the LINs Lab, working under the guidance of [Prof. Tao Lin](https://scholar.google.com/citations?user=<ProfLinUserID>&hl=en).
+
+My research interests include Deep Learning Theory, Large Language Models, Interpretability, Complex Systems, and Statistical Mechanics.
 
 # 🔥 News
-- 2024.09 Two papers were accepted by EMNLP 2024 Main.
+
+- **2024.09:** Two papers were accepted by EMNLP 2024 Main.
 
 # 📝 Publications 
 
@@ -115,6 +119,6 @@ Hi, everyone! I am currently a junior undergraduate student at Harbin Institute 
   </div>
 </div>
 
-# 📖 Educations
-- *2022.09 - 2026.06 (Expected)*, Harbin Institute of Technology (Weihai). B.S. in Software Engineering.
+# 📖 Education
 
+- *2022.09 - 2026.06 (Expected)*, Harbin Institute of Technology (Weihai). B.S. in Software Engineering.
