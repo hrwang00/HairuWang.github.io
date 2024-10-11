@@ -28,94 +28,87 @@ My research interests include Deep Learning Theory, Large Language Models, Inter
 # 📝 Publications 
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ICLR 2025 Under Review</div>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [**Structured-Initialization Learning**](#)<br>
-    **Deyuan Liu**, Peng Sun, Xufeng Li, Tao Lin<br>
-    <em>ICLR 2025 Under Review</em>
-  </div>
+<div class='paper-box-image'><div><div class="badge">ICLR 2025 Under Review</div></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Structured-Initialization Learning**](#)
+
+**Deyuan Liu**, Peng Sun, Xufeng Li, Tao Lin
+
+*ICLR 2025 Under Review*
+</div>
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">EMNLP 2024 Main</div>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [**Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging**](https://arxiv.org/abs/2406.16330)<br>
-    **Deyuan Liu**, Zhanyue Qin, Hairu Wang, Zhao Yang, Zecheng Wang, Fangying Rong, Qingbin Liu, Yanchao Hao, Xi Chen, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Bo Li, Dianbo Sui<br>
-    <em>EMNLP 2024 Main</em>
-  </div>
+<div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging**](https://arxiv.org/abs/2406.16330)
+
+**Deyuan Liu**, Zhanyue Qin, Hairu Wang, Zhao Yang, Zecheng Wang, Fangying Rong, Qingbin Liu, Yanchao Hao, Xi Chen, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Bo Li, Dianbo Sui
+
+*EMNLP 2024 Main*
+</div>
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arXiv</div>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [**Checkpoint Merging via Bayesian Optimization in LLM Pretraining**](https://arxiv.org/abs/2403.19390)<br>
-    **Deyuan Liu**, Zecheng Wang, Bingning Wang, Weipeng Chen, Chunshan Li, Zhiying Tu, Dianhui Chu, Bo Li, Dianbo Sui<br>
-    <em>arXiv</em>
-  </div>
+<div class='paper-box-image'><div><div class="badge">arXiv</div></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Checkpoint Merging via Bayesian Optimization in LLM Pretraining**](https://arxiv.org/abs/2403.19390)
+
+**Deyuan Liu**, Zecheng Wang, Bingning Wang, Weipeng Chen, Chunshan Li, Zhiying Tu, Dianhui Chu, Bo Li, Dianbo Sui
+
+*arXiv*
+</div>
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">AAAI 2025 Under Review</div>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [**Enhancing LLM Pretraining by Checkpoint Merging: An Almost Free Lunch Approach**](#)<br>
-    Zecheng Wang, **Deyuan Liu**, Chunshan Li, Dianhui Chu, Weipeng Chen, Bingning Wang, Dianbo Sui<br>
-    <em>AAAI 2025 Under Review</em>
-  </div>
+<div class='paper-box-image'><div><div class="badge">AAAI 2025 Under Review</div></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Enhancing LLM Pretraining by Checkpoint Merging: An Almost Free Lunch Approach**](#)
+
+Zecheng Wang, **Deyuan Liu**, Chunshan Li, Dianhui Chu, Weipeng Chen, Bingning Wang, Dianbo Sui
+
+*AAAI 2025 Under Review*
+</div>
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">EMNLP 2024 Main</div>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [**UNO Arena for Evaluating Sequential Reasoning of LLMs**](https://arxiv.org/abs/2406.16382)<br>
-    Zhanyue Qin, Haochuan Wang, **Deyuan Liu**, Ziyang Song, Cunhang Fan, Zhao Lv, Jinlin Wu, Zhen Lei, Zhiying Tu, Dianhui Chu, Xiaoyan Yu, Dianbo Sui<br>
-    <em>EMNLP 2024 Main</em>
-  </div>
+<div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main</div></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**UNO Arena for Evaluating Sequential Reasoning of LLMs**](https://arxiv.org/abs/2406.16382)
+
+Zhanyue Qin, Haochuan Wang, **Deyuan Liu**, Ziyang Song, Cunhang Fan, Zhao Lv, Jinlin Wu, Zhen Lei, Zhiying Tu, Dianhui Chu, Xiaoyan Yu, Dianbo Sui
+
+*EMNLP 2024 Main*
+</div>
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ICLR 2025 Under Review</div>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [**Co-Evolution Learning**](#)<br>
-    Zhenwei Long, Peng Sun, Zhenglin Cheng, **Deyuan Liu**, Tao Lin<br>
-    <em>ICLR 2025 Under Review</em>
-  </div>
+<div class='paper-box-image'><div><div class="badge">ICLR 2025 Under Review</div></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Co-Evolution Learning**](#)
+
+Zhenwei Long, Peng Sun, Zhenglin Cheng, **Deyuan Liu**, Tao Lin
+
+*ICLR 2025 Under Review*
+</div>
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arXiv</div>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [**Mitigating Gender Bias in Code Large Language Models via Model Editing**](https://arxiv.org/abs/2410.07820)<br>
-    Zhanyue Qin, Haochuan Wang, Zecheng Wang, **Deyuan Liu**, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Dianbo Sui<br>
-    <em>arXiv</em>
-  </div>
+<div class='paper-box-image'><div><div class="badge">arXiv</div></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Mitigating Gender Bias in Code Large Language Models via Model Editing**](https://arxiv.org/abs/2410.07820)
+
+Zhanyue Qin, Haochuan Wang, Zecheng Wang, **Deyuan Liu**, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Dianbo Sui
+
+*arXiv*
+</div>
 </div>
 
 # 📖 Education
