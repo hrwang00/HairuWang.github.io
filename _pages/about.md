@@ -27,33 +27,38 @@ My research interests include Deep Learning Theory, Large Language Models, Inter
 
 # 📝 Publications 
 
-
-[**Structured-Initialization Learning**](#)
+[**Efficient Generative Model Training via Embedded Representation Warmup**](#)
 
 **Deyuan Liu**, Peng Sun, Xufeng Li, Tao Lin
 
-*ICLR 2025 Under Review*
+*ICCV 2025 Under Review*
+
+[**SAIL: Accelerating Model Training via Structured Initialization**](https://openreview.net/forum?id=MSlF3GvUXI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
+
+**Deyuan Liu**, Peng Sun, Xufeng Li, Tao Lin
+
+*ICML 2025 Under Review*
 
 
 [**Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging**](https://arxiv.org/abs/2406.16330)
 
 **Deyuan Liu**, Zhanyue Qin, Hairu Wang, Zhao Yang, Zecheng Wang, Fangying Rong, Qingbin Liu, Yanchao Hao, Xi Chen, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Bo Li, Dianbo Sui
 
-*EMNLP 2024 Main*
+*EMNLP 2024 Main, TPAMI Under Review*
 
 
-[**Checkpoint Merging via Bayesian Optimization in LLM Pretraining**](https://arxiv.org/abs/2403.19390)
+[**Maximizing Intermediate Checkpoint Value in LLM Pretraining with Bayesian Optimization**](https://arxiv.org/abs/2403.19390)
 
 **Deyuan Liu**, Zecheng Wang, Bingning Wang, Weipeng Chen, Chunshan Li, Zhiying Tu, Dianhui Chu, Bo Li, Dianbo Sui
 
-*arXiv*
+*ICML 2025 Under Review*
 
 
 [**Enhancing LLM Pretraining by Checkpoint Merging: An Almost Free Lunch Approach**](#)
 
 Zecheng Wang, **Deyuan Liu**, Chunshan Li, Dianhui Chu, Weipeng Chen, Bingning Wang, Dianbo Sui
 
-*AAAI 2025 Under Review*
+*Information Fusion Under Review*
 
 
 [**UNO Arena for Evaluating Sequential Reasoning of LLMs**](https://arxiv.org/abs/2406.16382)
@@ -63,18 +68,18 @@ Zhanyue Qin, Haochuan Wang, **Deyuan Liu**, Ziyang Song, Cunhang Fan, Zhao Lv, J
 *EMNLP 2024 Main*
 
 
-[**Co-Evolution Learning**](#)
+[**Co-Evolution Learning**](https://openreview.net/forum?id=5IBrWCeZtl&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 
 Zhenwei Long, Peng Sun, Zhenglin Cheng, **Deyuan Liu**, Tao Lin
 
-*ICLR 2025 Under Review*
+*ICCV 2025 Under Review*
 
 
 [**Mitigating Gender Bias in Code Large Language Models via Model Editing**](https://arxiv.org/abs/2410.07820)
 
 Zhanyue Qin, Haochuan Wang, Zecheng Wang, **Deyuan Liu**, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Dianbo Sui
 
-*arXiv*
+*ICWS 2025 Under Review*
 
 
 # 📖 Education
