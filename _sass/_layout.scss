@@ -1,0 +1,117 @@
+/* _sass/_layout.scss */
+.page-wrapper {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar-left {
+  width: $sidebar-width;
+  min-width: $sidebar-width; // Prevent shrinking
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: $sidebar-bg;
+  padding: 2em 1.5em;
+  overflow-y: auto;
+  color: $sidebar-text-color;
+  border-right: 1px solid $border-color-dark;
+
+  .author-profile {
+    text-align: center;
+    margin-bottom: 2em;
+  }
+
+  .author-avatar {
+    width: 120px; // Adjust
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 1em;
+    border: 3px solid $border-color-dark; // Optional border
+  }
+
+  .author-name {
+    font-size: 1.5em;
+    color: $heading-text;
+    margin-bottom: 0.25em;
+  }
+
+  .author-bio {
+    font-size: 0.9em;
+    margin-bottom: 2em;
+    color: darken($sidebar-text-color, 10%);
+  }
+
+  .sidebar-nav {
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    li a {
+      display: block;
+      padding: 0.6em 0;
+      color: $sidebar-link-color;
+      text-decoration: none;
+      font-size: 1.1em; // Make nav links a bit larger
+      font-weight: 500; // Slightly bolder
+      transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+
+      &:hover {
+        color: $sidebar-link-hover-color;
+        // background-color: $sidebar-active-link-bg; // Optional hover background
+      }
+      // Add active state styling if you implement JS for it or if Jekyll can do it
+    }
+  }
+
+  .author-social-links {
+    margin-top: 2em;
+    text-align: center;
+    .social-icons {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      li {
+        display: inline-block;
+        margin: 0 0.5em;
+        a {
+          color: $sidebar-link-color;
+          font-size: 1.2em; // Icon size
+          &:hover {
+            color: $sidebar-link-hover-color;
+          }
+          .label { // Hide text label for icons if you want
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}
+
+.main-content-area {
+  flex-grow: 1;
+  margin-left: $sidebar-width;
+  padding: 2em 3em; // Adjust padding
+  overflow-y: auto; // Allow content to scroll
+  // max-width: 900px; // Optional: constrain content width like the target
+  // margin-right: auto; // To center if max-width is used
+}
+
+// Responsive: On smaller screens, sidebar might go on top or be hidden
+@media (max-width: 768px) { // Adjust breakpoint as needed
+  .page-wrapper {
+    flex-direction: column;
+  }
+  .sidebar-left {
+    position: static; // No longer fixed
+    width: 100%;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid $border-color-dark;
+  }
+  .main-content-area {
+    margin-left: 0;
+  }
+}
