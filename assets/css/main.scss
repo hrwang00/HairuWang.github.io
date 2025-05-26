@@ -10,35 +10,73 @@
  *
 */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
-@import "variables";
-@import "mixins";
-@import "vendor/susy/susy";
+// @import "vendor/breakpoint/breakpoint"; // media query mixins
+// @import "variables";
+// @import "mixins";
+// @import "vendor/susy/susy";
+
+// @import "reset";
+// @import "base";
+
+// @import "utilities";
+// @import "animations";
+// @import "tables";
+// @import "buttons";
+// @import "notices";
+// @import "masthead";
+// @import "navigation";
+// @import "footer";
+// @import "syntax";
+
+// @import "forms";
+
+// @import "page";
+// @import "archive";
+// @import "sidebar";
+
+// @import "vendor/font-awesome/fontawesome";
+// @import "vendor/font-awesome/solid";
+// @import "vendor/font-awesome/brands";
+// @import "vendor/magnific-popup/magnific-popup";
+// @import "print";
+---
+---
+/* ... (license header) ... */
+
+@import "vendor/breakpoint/breakpoint";
+@import "variables"; // Keep this early
+@import "mixins";    // Keep this early
+@import "vendor/susy/susy"; // If you still use Susy for anything
 
 @import "reset";
 @import "base";
+@import "dark-theme"; // Import your new dark theme styles
+@import "layout";     // Import your new layout styles
 
 @import "utilities";
 @import "animations";
-@import "tables";
-@import "buttons";
-@import "notices";
-@import "masthead";
-@import "navigation";
-@import "footer";
-@import "syntax";
+@import "tables";     // Review for dark theme
+@import "buttons";    // Review for dark theme
+@import "notices";    // Review for dark theme
+// @import "masthead"; // Likely remove or heavily adapt
+@import "navigation"; // Review if any parts are still used, sidebar nav has its own
+@import "footer";     // Review for dark theme
+@import "syntax";     // Review for dark theme
 
-@import "forms";
+@import "forms";      // Review for dark theme
 
-@import "page";
-@import "archive";
-@import "sidebar";
+@import "page";       // Main content styling, adapt for dark theme
+@import "research";   // If you created _research.scss for publication items
+// @import "archive"; // Review if still needed
+// @import "sidebar"; // This was the old sidebar, remove or replace with new sidebar styles if you didn't put them in _layout.scss
 
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
-@import "vendor/magnific-popup/magnific-popup";
+// @import "vendor/magnific-popup/magnific-popup"; // Review if still used/needed
 @import "print";
+
+// ... (any custom styles like .paper-box if you keep them, or the new .research-item styles if not in _research.scss) ...
 
 .paper-box {
     display: flex;
