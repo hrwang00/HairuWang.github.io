@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Deyuan's Homepage"
-description              : #"N/A"
+description              : "Research and interests of Deyuan Liu."
 repository               : "SempraETY/DeyuanLiu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Deyuan Liu"
   avatar           : "images/deyuanliu.jpg"
   bio              : "Junior at Harbin Institute of Technology"
-  location         : "Wei hai, China"
+  location         : "Shang hai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ch/citations?user=uBND4ecAAAAJ&hl=en"
