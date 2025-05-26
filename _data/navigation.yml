@@ -1,19 +1,30 @@
-# main links links
+# # main links links
+# main:
+#   - title: "About Me"
+#     url: "/#about-me"
+
+#   - title: "News"
+#     url: "/#-news"
+
+#   - title: "Publications"
+#     url: "/#-publications"
+
+#   - title: "Talk"
+#     url: "/#-Talk"
+
+#   - title: "Educations"
+#     url: "/#-educations"
+
+#   - title: "Internships"
+#     url: "/#-internships"
+# _data/navigation.yml
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
+  - title: "About"
+    url: "/#about-me" # Ensure this matches an ID in your main content
   - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Talk"
-    url: "/#-Talk"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Internships"
-    url: "/#-internships"
+    url: "/#-news" # Corrected from screenshot to your content
+  - title: "Research" # Renamed from Publications
+    url: "/#-publications" # Points to your publications section
+  - title: "Education" # Example, keep or remove
+    url: "/#-education"
+  # Add or remove items as per the target design / your needs
