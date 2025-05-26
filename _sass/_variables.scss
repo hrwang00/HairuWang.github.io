@@ -155,3 +155,20 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
+
+
+// Dark Theme Colors (example, adjust to match screenshot)
+$dark-bg: #1a1a1a; // Or a very dark gray like #22252a from screenshot
+$sidebar-bg: #111; // Slightly darker or different shade for sidebar
+$light-text: #c0c0c0; // Off-white for body text
+$heading-text: #ffffff;
+$link-color-dark: #61dafb; // A bright accent color for links
+$link-hover-dark: #bbeeff;
+$border-color-dark: #333;
+
+// Sidebar specific
+$sidebar-width: 280px; // Adjust as needed
+$sidebar-text-color: #a0a0a0;
+$sidebar-link-color: #b0b0b0;
+$sidebar-link-hover-color: #ffffff;
+$sidebar-active-link-bg: #333;
