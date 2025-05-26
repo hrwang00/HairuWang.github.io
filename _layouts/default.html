@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: compress
 ---
 
@@ -25,6 +25,34 @@ layout: compress
           </section>
         </div>
       </article>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
+ -->
+---
+layout: compress # Assuming compress.html is a layout for minifying HTML
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="dark-theme"> {# Add a class for the dark theme #}
+
+    {% include browser-upgrade.html %}
+
+    <div class="page-wrapper">
+      {% include new-left-sidebar.html %} {# We'll create this new include #}
+
+      <main id="main-content" class="main-content-area">
+        {{ content }}
+      </main>
     </div>
 
     {% include scripts.html %}
