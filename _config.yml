@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Deyuan's Homepage"
-description              : "Research and interests of Deyuan Liu."
+description              : 
 repository               : "SempraETY/DeyuanLiu.github.io"
 google_scholar_stats_use_cdn : true
 
