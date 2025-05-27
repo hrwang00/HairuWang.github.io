@@ -40,7 +40,7 @@ My research interests include Deep Learning Theory, Large Language Models, Inter
 
 [**How Stable is the Next Token? A Geometric View of LLM Prediction Stability**](#)
 
-**Deyuan Liu**, Zhanyue Qin, Yantai Yang, Zhiying Tu, Dianhui Chu, Bo Li, Dianbo Sui
+**Deyuan Liu**, Zhanyue Qin, Yantai Yang, Zhiying Tu, Dianhui Chu, Dianbo Sui
 
 *NeurIPS 2025 Under Review*
 
