@@ -59,7 +59,7 @@ My research interests include Deep Learning Theory, Large Language Models, Diffu
 *EMNLP 2024 Main, TPAMI Under Review*
 
 
-[**Enhancing LLM Pretraining by Checkpoint Merging: An Almost Free Lunch Approach**](#)
+[**Towards Enhanced LLM Pretraining: Dynamic Checkpoint Merging via Generation Quality**](#)
 
 Zecheng Wang, **Deyuan Liu**, Chunshan Li, Dianhui Chu, Weipeng Chen, Bingning Wang, Dianbo Sui
 
