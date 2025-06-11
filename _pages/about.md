@@ -20,9 +20,10 @@ redirect_from:
 
 Hi, everyone! I am currently a junior undergraduate student at Harbin Institute of Technology (Weihai). I serve as a research assistant at Harbin Institute of Technology under the supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). Additionally, I am a visiting student at Westlake University in the LINs Lab, working under the guidance of [Prof. Tao Lin](https://scholar.google.ch/citations?user=QE9pa_cAAAAJ&hl=en). 
 
-My research interests include Deep Learning Theory, Large Language Models, Interpretability, Complex Systems, and Statistical Mechanics.
+My research interests include Deep Learning Theory, Large Language Models, Diffusion Model, Interpretability, Complex Systems, and Statistical Mechanics.
 
 # 🔥 News
+- 2025.06 One papers were accepted by Information Fusion.
 - 2025.05 One papers were accepted by ICML 2025.
 - 2024.09 Two papers were accepted by EMNLP 2024 Main.
 
@@ -62,7 +63,7 @@ My research interests include Deep Learning Theory, Large Language Models, Inter
 
 Zecheng Wang, **Deyuan Liu**, Chunshan Li, Dianhui Chu, Weipeng Chen, Bingning Wang, Dianbo Sui
 
-*Information Fusion Under Review*
+*Information Fusion*
 
 
 # 📖 Education
