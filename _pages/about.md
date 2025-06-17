@@ -23,8 +23,8 @@ Hi, everyone! I am currently a junior undergraduate student at Harbin Institute 
 My research interests include Deep Learning Theory, Large Language Models, Diffusion Model, Interpretability, Complex Systems, and Statistical Mechanics.
 
 # 🔥 News
-- 2025.06 One papers were accepted by Information Fusion.
-- 2025.05 One papers were accepted by ICML 2025.
+- 2025.06 One papers was accepted by Information Fusion.
+- 2025.05 One papers was accepted by ICML 2025.
 - 2024.09 Two papers were accepted by EMNLP 2024 Main.
 
 # 📝 Publications 
