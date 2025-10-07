@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Deyuan's Homepage"
+title                    : "Hairu's Homepage"
 description              : 
-repository               : "SempraETY/DeyuanLiu.github.io"
+repository               : "hrwang00/HairuWang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Deyuan Liu"
-  avatar           : "images/deyuanliu.jpg"
-  bio              : "Junior at Harbin Institute of Technology"
-  location         : "Shang hai, China"
+  name             : "Hairu Wang"
+  avatar           : "images/hairuwang.jpg"
+  bio              : "Master's student at University of Science and Technology of China"
+  location         : "Hang zhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.ch/citations?user=uBND4ecAAAAJ&hl=en"
-  email            : "2022211994@hit.stu.edu.cn"
+  # googlescholar    : "https://scholar.google.ch/citations?user=uBND4ecAAAAJ&hl=en"
+  email            : "hrwang00@mail.ustc.edu.cn"
   researchgate     :
   uri              :
   bitbucket        :
