@@ -18,9 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
 
-Hi, everyone! I am currently a junior undergraduate student at Harbin Institute of Technology (Weihai). I serve as a research assistant at Harbin Institute of Technology under the supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). Additionally, I am a visiting student at Westlake University in the LINs Lab, working under the guidance of [Prof. Tao Lin](https://scholar.google.ch/citations?user=QE9pa_cAAAAJ&hl=en). 
+Hi, everyone! I earned my bachelor’s degree at Harbin Institute of Technology in 2023. In the same year, I joined the School of Computer Science at USTC for my master's degree. Currently, I am a third-year M.S. candidate jointly supervised by Prof. [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/) and [Prof. S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en). Please don’t hesitate to reach out for any discussion. You can contact me via Email: hrwang00@mail dot ustc dot edu dot cn. I am always open to engaging in intriguing research endeavors! 😊
 
-My research interests include Deep Learning Theory, Large Language Models, Diffusion Model, Interpretability, Complex Systems, and Statistical Mechanics.
+My research interests include NNs' memory, Large Language Models, LLM efficiency, and RAG.
+
 
 # 🔥 News
 - 2025.06 One papers was accepted by Information Fusion.
@@ -67,4 +68,5 @@ Zecheng Wang, **Deyuan Liu**, Chunshan Li, Dianhui Chu, Weipeng Chen, Bingning W
 
 
 # 📖 Education
-- *2022.09 - 2026.06 (Expected)*, Harbin Institute of Technology (Weihai). B.S. in Software Engineering.
+- *2023.09 - 2026.06*, Master in Computer Science and Technology, University of Science and Technology of China (USTC).
+- *2019.09 - 2023.06*, Bachelor in Software Engineering, Harbin Institute of Technology (HIT).
