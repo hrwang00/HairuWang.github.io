@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
 
-Hi, everyone! I earned my bachelor’s degree at Harbin Institute of Technology in 2023. In the same year, I joined the School of Computer Science at USTC for my master's degree. Currently, I am a third-year M.S. candidate jointly supervised by Prof. [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/) and [Prof. S. Kevin Zhou]
+Hi, everyone! I earned my bachelor’s degree at Harbin Institute of Technology in 2023. In the same year, I joined the School of Computer Science at USTC for my master's degree. Currently, I am a third-year M.S. candidate jointly supervised by Prof. [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/) and [Prof. S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en).
 
-(https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en). Please don’t hesitate to reach out for any discussion. You can contact me via Email: hrwang00@mail dot ustc dot edu dot cn. I am always open to engaging in intriguing research endeavors! 😊
+Please don’t hesitate to reach out for any discussion. You can contact me via Email: hrwang00@mail dot ustc dot edu dot cn. I am always open to engaging in intriguing research endeavors! 😊
 
 # 📝 Research Interests:
 
@@ -36,7 +36,6 @@ My research interests include NNs' memory, Large Language Models, LLM efficiency
 
 1. <span style="color:#002FA7;">**[EMNLP 2024 Main]**</span> Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging.  [link](https://arxiv.org/abs/2406.16330)
 2. <span style="color:#002FA7;">**[EMNLP 2025 findings]**</span> SkewRoute: Training-Free LLM Routing for Knowledge Graph Retrieval-Augmented Generation via Score Skewness.  [link](https://arxiv.org/pdf/2505.23841)
-
     *We propose the first LLM routing method for KG-RAG, based on the observation of a strong correlation between query difficulty and the skewness of the RAG retrieval score distribution.*
 
 🎯 **RAG in LLMs.**
