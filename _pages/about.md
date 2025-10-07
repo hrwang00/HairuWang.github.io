@@ -29,7 +29,7 @@ My research interests include NNs' memory, Large Language Models, LLM efficiency
 🎯 **Teaching NNs to memorize data streams & Learnable Large-Scale Data Compression.**
 
 1. <span style="color:#002FA7;">**[ICLR 2024 Spotlight]**</span>  Mayfly: a Neural Data Structure for Graph Stream Summarization. <span>   [link](https://openreview.net/pdf?id=n7Sr8SW4bn)</span>
-2. <span style="color:#002FA7;">**[TPAMI24]**</span>  Learning to Sketch: A Neural Approach to Item Frequency Estimation in Streaming Data. <span> [link](https://ieeexplore.ieee.org/abstract/document/10499867/) </span>
+2. <span style="color:#002FA7;">**[TPAMI 2024]**</span>  Learning to Sketch: A Neural Approach to Item Frequency Estimation in Streaming Data. <span> [link](https://ieeexplore.ieee.org/abstract/document/10499867/) </span>
 3. <span style="color:#002FA7;">**[ICML 2025]**</span>  Lego Sketch: A Scalable Memory-augmented Neural Network for Sketching Data Streams. <span> [link](https://openreview.net/forum?id=GPSmbdTZBm) </span>
 
 🎯 **LLM Efficiency.**
