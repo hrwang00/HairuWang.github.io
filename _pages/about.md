@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
 
-Hi, everyone! I earned my bachelor’s degree at Harbin Institute of Technology in 2023. In the same year, I joined the School of Computer Science at USTC for my master's degree. Currently, I am a third-year M.S. candidate jointly supervised by Prof. [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/) and [Prof. S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en).
+Hi, everyone! I earned my bachelor’s degree at Harbin Institute of Technology in 2023. In the same year, I joined the School of Computer Science at USTC for my master's degree. Currently, I am a third-year M.S. candidate jointly supervised by [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/) and [Prof. S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en).
 
 Please don’t hesitate to reach out for any discussion. You can contact me via Email: hrwang00@mail dot ustc dot edu dot cn. I am always open to engaging in intriguing research endeavors! 😊
 
