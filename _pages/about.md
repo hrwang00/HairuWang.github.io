@@ -36,7 +36,6 @@ My research interests include NNs' memory, Large Language Models, LLM efficiency
 
 1. <span style="color:#002FA7;">**[EMNLP 2024 Main]**</span> Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging.  [link](https://arxiv.org/abs/2406.16330)
 2. <span style="color:#002FA7;">**[EMNLP 2025 findings]**</span> SkewRoute: Training-Free LLM Routing for Knowledge Graph Retrieval-Augmented Generation via Score Skewness.  [link](https://arxiv.org/pdf/2505.23841)
-    *We propose the first LLM routing method for KG-RAG, based on the observation of a strong correlation between query difficulty and the skewness of the RAG retrieval score distribution.*
 
 🎯 **RAG in LLMs.**
 
