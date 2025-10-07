@@ -18,53 +18,32 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
 
-Hi, everyone! I earned my bachelor’s degree at Harbin Institute of Technology in 2023. In the same year, I joined the School of Computer Science at USTC for my master's degree. Currently, I am a third-year M.S. candidate jointly supervised by Prof. [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/) and [Prof. S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en). Please don’t hesitate to reach out for any discussion. You can contact me via Email: hrwang00@mail dot ustc dot edu dot cn. I am always open to engaging in intriguing research endeavors! 😊
+Hi, everyone! I earned my bachelor’s degree at Harbin Institute of Technology in 2023. In the same year, I joined the School of Computer Science at USTC for my master's degree. Currently, I am a third-year M.S. candidate jointly supervised by Prof. [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/) and [Prof. S. Kevin Zhou]
+
+(https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en). Please don’t hesitate to reach out for any discussion. You can contact me via Email: hrwang00@mail dot ustc dot edu dot cn. I am always open to engaging in intriguing research endeavors! 😊
+
+# 📝 Research Interests:
 
 My research interests include NNs' memory, Large Language Models, LLM efficiency, and RAG.
 
+🎯 **Teaching NNs to memorize data streams & Learnable Large-Scale Data Compression.**
 
-# 🔥 News
-- 2025.06 One papers was accepted by Information Fusion.
-- 2025.05 One papers was accepted by ICML 2025.
-- 2024.09 Two papers were accepted by EMNLP 2024 Main.
+1. <span style="color:#002FA7;">**[ICLR 2024 Spotlight]**</span>  Mayfly: a Neural Data Structure for Graph Stream Summarization. <span>   [link](https://openreview.net/pdf?id=n7Sr8SW4bn)</span>
+2. <span style="color:#002FA7;">**[TPAMI24]**</span>  Learning to Sketch: A Neural Approach to Item Frequency Estimation in Streaming Data. <span> [link](https://ieeexplore.ieee.org/abstract/document/10499867/) </span>
+3. <span style="color:#002FA7;">**[ICML 2025]**</span>  Lego Sketch: A Scalable Memory-augmented Neural Network for Sketching Data Streams. <span> [link](https://openreview.net/forum?id=GPSmbdTZBm) </span>
 
-# 📝 Publications 
+🎯 **LLM Efficiency.**
 
-[**Efficient Generative Model Training via Embedded Representation Warmup**](https://arxiv.org/abs/2504.10188)
+1. <span style="color:#002FA7;">**[EMNLP 2024 Main]**</span> Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging.  [link](https://arxiv.org/abs/2406.16330)
+2. <span style="color:#002FA7;">**[EMNLP 2025 findings]**</span> SkewRoute: Training-Free LLM Routing for Knowledge Graph Retrieval-Augmented Generation via Score Skewness.  [link](https://arxiv.org/pdf/2505.23841)
 
-**Deyuan Liu**, Peng Sun, Xufeng Li, Tao Lin
+    *We propose the first LLM routing method for KG-RAG, based on the observation of a strong correlation between query difficulty and the skewness of the RAG retrieval score distribution.*
 
-*ICCV 2025 Under Review*
-
-[**SAIL: Accelerating Model Training via Structured Initialization**](https://openreview.net/forum?id=MSlF3GvUXI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
-
-**Deyuan Liu**, Peng Sun, Xufeng Li, Tao Lin
-
-[**How Stable is the Next Token? A Geometric View of LLM Prediction Stability**](#)
-
-**Deyuan Liu**, Zhanyue Qin, Yantai Yang, Zhiying Tu, Dianhui Chu, Dianbo Sui
-
-*NeurIPS 2025 Under Review*
-
-[**Maximizing Intermediate Checkpoint Value in LLM Pretraining with Bayesian Optimization**](https://arxiv.org/abs/2403.19390)
-
-**Deyuan Liu**, Zecheng Wang, Bingning Wang, Weipeng Chen, Chunshan Li, Zhiying Tu, Dianhui Chu, Bo Li, Dianbo Sui
-
-*ICML 2025*
+🎯 **RAG in LLMs.**
 
 
-[**Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging**](https://arxiv.org/abs/2406.16330)
-
-**Deyuan Liu**, Zhanyue Qin, Hairu Wang, Zhao Yang, Zecheng Wang, Fangying Rong, Qingbin Liu, Yanchao Hao, Xi Chen, Cunhang Fan, Zhao Lv, Zhiying Tu, Dianhui Chu, Bo Li, Dianbo Sui
-
-*EMNLP 2024 Main, TPAMI Under Review*
-
-
-[**Towards Enhanced LLM Pretraining: Dynamic Checkpoint Merging via Generation Quality**](#)
-
-Zecheng Wang, **Deyuan Liu**, Chunshan Li, Dianhui Chu, Weipeng Chen, Bingning Wang, Dianbo Sui
-
-*Information Fusion*
+1. <span style="color:#002FA7;">**[ACL 2025 findings]**</span> FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs <span> [link](https://arxiv.org/abs/2501.09957)</span>
+2. <span style="color:#BEBEBE;">**[arXiv]**</span>  Path Pooling: Training-Free Structure Enhancement for Efficient Knowledge Graph Retrieval-Augmented Generation. [link](https://arxiv.org/abs/2503.05203)
 
 
 # 📖 Education
